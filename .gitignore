@@ -143,6 +143,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+mlpr1/
 
 # Spyder project settings
 .spyderproject
